@@ -1,0 +1,29 @@
+{
+  "productId": "PROD12345",
+  "header": "Latest Wireless Earbuds",
+  "productCategory": "Electronics",
+  "otherCategory": "Audio",
+  "productName": "Wireless Earbuds Pro",
+  "productType": "Bluetooth Earbuds",
+  "productBrand": "SoundTech",
+  "availableStockQty": 150,
+  "mrp": 4999,
+  "offerPrice": 3499,
+  "packetweight": 0.3,
+  "unitOfMeasure": "kg",
+  "description": "High-quality wireless earbuds with noise-cancellation feature.",
+  "createdBy": "AdminUser",
+  "imageURL": [
+    "https://example.com/images/earbuds_front.jpg",
+    "https://example.com/images/earbuds_side.jpg"
+  ],
+  "manufactureDate": "2023-05-01",
+  "expiryDate": "2025-05-01",
+  "sellerInformation": "SoundTech Authorized Dealer",
+  "approved": true,
+  "dealOfDay": false,
+  "tekiskyPrice": "2999",
+  "size": "Small",
+  "color": "Black",
+  "material": "Plastic"
+}

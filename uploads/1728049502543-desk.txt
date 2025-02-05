@@ -1,0 +1,28 @@
+{
+    "productId": "12345",
+    "header": "Product Header Example",
+    "productCategory": "Electronics",
+    "otherCategory": "Accessories",
+    "productName": "Wireless Earbuds",
+    "productType": "Audio",
+    "productBrand": "TechBrand",
+    "availableStockQty": 150,
+    "mrp": 3999,
+    "offerPrice": 2999,
+    "packetweight": 200,
+    "unitOfMeasure": "grams",
+    "description": "High-quality wireless earbuds with noise cancellation.",
+    "createdBy": "seller123",
+    "imageURL": [
+        "https://m.media-amazon.com/images/I/71s0-I-B6sL._AC_SL1500_.jpg"
+    ],
+    "manufactureDate": "2023-09-15",
+    "expiryDate": "2025-09-15",
+    "sellerInformation": "TechBrand Ltd.",
+    "approved": true,
+    "dealOfDay": false,
+    "tekiskyPrice": "2899",
+    "size": "Standard",
+    "color": "Black",
+    "material": "Plastic"
+}

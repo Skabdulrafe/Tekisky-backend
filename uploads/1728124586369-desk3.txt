@@ -1,0 +1,30 @@
+{
+  "productId": "SMRT123456",
+  "header": "Latest Flagship Smartphone",
+  "productCategory": "Electronics",
+  "otherCategory": "Mobile Phones",
+  "productName": "XPhone Pro Max",
+  "productType": "Smartphone",
+  "productBrand": "XTech",
+  "availableStockQty": 250,
+  "mrp": 89999,
+  "offerPrice": 79999,
+  "packetweight": 0.195,
+  "unitOfMeasure": "kg",
+  "description": "XPhone Pro Max with 6.7-inch OLED display, 256GB storage, and a 48MP triple camera system.",
+  "createdBy": "RetailerX",
+  "imageURL": [
+    "https://example.com/images/xphone_front.jpg",
+    "https://example.com/images/xphone_back.jpg",
+    "https://example.com/images/xphone_side.jpg"
+  ],
+  "manufactureDate": "2024-09-15",
+  "expiryDate": "2029-09-15",
+  "sellerInformation": "XTech Official Store",
+  "approved": true,
+  "dealOfDay": true,
+  "tekiskyPrice": "78000",
+  "size": "6.7 inches",
+  "color": "Silver",
+  "material": "Aluminum and Glass"
+}
