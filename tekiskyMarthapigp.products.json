@@ -1,0 +1,1532 @@
+[{
+  "_id": {
+    "$oid": "67a1f4fa04d921ac3bb64480"
+  },
+  "productId": "rr24",
+  "header": "Al Haramain Madina",
+  "productCategory": "Beauty & Personal Care",
+  "otherCategory": "Fragrances",
+  "productName": "Al Haramain Attar Million 15 Ml Roll-On Perfume - Long Lasting, Alcohol-Free Premium Perfume",
+  "productType": "Perfume",
+  "productBrand": "Elite Fragrances",
+  "availableStockQty": 300,
+  "mrp": 1000,
+  "offerPrice": 550,
+  "packetweight": 0.015,
+  "unitOfMeasure": "kg",
+  "description": "Pure premium quality concentrated perfume oil. A tiny drop is sufficient for the whole day. Long-lasting (+8 hours) with high projection. Fresh deep rose aroma, best to wear in summer. This meditative & calming fragrance is one of the best in the low-budget oriental perfume category.",
+  "createdBy": "JaneDoe",
+  "imageURL": [
+    "https://media-hosting.imagekit.io//0a0e197b05864865/Al%20haramain%201.jpg?Expires=1833271468&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=boglzyJ0gG8i0gwqpjyGYwTg5HSAAQuytQHLBpRmdSRCjMm9kY1KTV3lqee56kw330WhNbZj~QEIwU99eSoYwdjKLsrviATbZXZFTltfF8h93ooTuzWKaMp-frkLDr9O9cdTtjJ0JU5XTW53IEJvSTIs~aZeS1R34zhTyJPJoms8Jjg2jysOcIZpPSlPWv6GXsukKaXPgbBbnN4Hd2nOloLFX3kZc1NkXHxZFQri1W6SJXR9i9avkVHe1ac823ziUQ7flLlilu8cbAJ7yzG9uMszK7kmFxHHI0Mmul6RWlCp~wERqVp7yK2WANpxj87ogmyuWn-vuxVtZ~3yzwaNuQ__",
+    "https://media-hosting.imagekit.io//d1535941c7504a11/Al%20haramain%202.jpg?Expires=1833271468&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=WbPSsNL7kVBLep2~8eXX6NltslVRXb24sCX92n~G7sNo9IW4~v~THi4MJvR7RUvp9f8TbWy60r7H-PL43CuFZ6~tzg9Ge5VIZAYbzgjjcctCBNAhEKFA3u~w9pzwBEqCd~ey6gV6~jLoImRGYgooqBchbPGhC1a~T~hckONV6uAcMSofWEpEp2RPax84oCZ6W9Pml6UQUecy1SYsaagq7G2h2J59w7icdxoYCfXxVdTwJqWM5uxLuh3Psq~VO2dYtgu9vNylNjs03D8e4bWET-Vc7UB81P1aLFjxYBu-wJPUJFmkrCpM0jBGWPpxxvD7E57rcOkbukVuSpgvRlP63A__",
+    "https://media-hosting.imagekit.io//3eeaa2883c244359/Al%20haramain%203.jpg?Expires=1833271468&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Y80xwMqivcT4T91jrPYObGNFEbXSsh1UxwSfLM0~tc-ckRfa7zS05txiNhC1Ie279PaIIO-pwT3Fv7QY8lPve-8DA1Vn8VGoZQRH2r-uSGP4ClDSz~8TRSrzKMR03aTI6ZEE9f4g~2POw3CXJSHt65MghSIGlxmvKTN34PivugWKPjSt90PK~YhplzTDldRoBnnmkpx3NiCYluQjNK~3czDCl-3Oj~YQdgcf9~mxpTDtTVL~4agLMP5U3dy5QDurOJSGI3JlpRBq2D7~yhIn4KFBNHgf~tIatFkacHCxHwHt0L2FNjnmzbfu1ZGAuSpUjsxYXq9NqyOuZSUtaow4xA__",
+    "https://media-hosting.imagekit.io//3260ed35474e474a/Al%20haramain%204.jpg?Expires=1833271468&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=gnkfEp5Q25Otr3BuLoBDhiaeZNG8n9dWwhs0-1FMmVZ-llz96oubR4BAW6i1rbwj3h9rvrGWsVEl1WVpSdy1Y-gNfdD6alHMEoggbEmgAFZSHzXrJefN2nyflEQqbHFeBJsit~GNSeG8KtenrvvsvnvpDADjQ1Kx3s1XcCgviORRXdewdAtuR4ibc42ZHCR6E5XtIYNK4bpqxtJYXQV7k-Fh6NpIWo~kxGRT2fOluRESTnfWhlSk32t-4T9f-Rqs9haISPDspyLYPeir-EP7iwjk2U7StKrHWYPZqCgeaUCwH6LFD3r9XdZM8wggVK3PbVCSXy4cpG-cvJMQRhPoeg__"
+  ],
+  "manufactureDate": "2024-01-20",
+  "expiryDate": "2027-01-20",
+  "sellerInformation": "Perfume Seller",
+  "approved": true,
+  "dealOfDay": false,
+  "tekiskyPrice": "550",
+  "size": "15ml",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-04T11:07:38.898Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-04T11:07:38.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670272a7b52dbde954a1139f"
+  },
+  "productId": "SMRT123456",
+  "header": "Latest Flagship Smartphone",
+  "productCategory": "Electronics",
+  "otherCategory": "Mobile Phones",
+  "productName": "XPhone Pro Max",
+  "productType": "Smartphone",
+  "productBrand": "XTech",
+  "availableStockQty": 250,
+  "mrp": 89999,
+  "offerPrice": 79999,
+  "packetweight": 0.195,
+  "unitOfMeasure": "kg",
+  "description": "XPhone Pro Max with 6.7-inch OLED display, 256GB storage, and a 48MP triple camera system.",
+  "createdBy": "RetailerX",
+  "imageURL": [
+    "https://www.gettyimages.com/photos/android-phone",
+    "https://example.com/images/xphone_back.jpg",
+    "https://example.com/images/xphone_side.jpg"
+  ],
+  "manufactureDate": "2024-09-15",
+  "expiryDate": "2029-09-15",
+  "sellerInformation": "XTech Official Store",
+  "approved": true,
+  "dealOfDay": true,
+  "tekiskyPrice": "78000",
+  "size": "6.7 inches",
+  "color": "Silver",
+  "material": "Aluminum and Glass",
+  "createdAt": {
+    "$date": "2024-10-06T11:21:11.465Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-06T11:21:11.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6707f9acd57bad06dcf1ba8a"
+  },
+  "productId": "PRD1001",
+  "header": "Premium Smartphone",
+  "productCategory": "Electronics",
+  "otherCategory": "Mobile Devices",
+  "productName": "Smartphone XZypanday sha Pro",
+  "productType": "Smartphone",
+  "productBrand": "TechBrand",
+  "availableStockQty": 100,
+  "mrp": 70000,
+  "offerPrice": 65000,
+  "packetweight": 0.5,
+  "unitOfMeasure": "kg",
+  "description": "A high-performance smartphone with cutting-edge features, perfect for tech enthusiasts.",
+  "createdBy": "JohnDoe",
+  "imageURL": [
+    "https://media-hosting.imagekit.io//55b0653ec732453b/Screenshot%202025-02-03%20193043.png?Expires=1833199514&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=cBDtAY-XzCi-e~pfJi5OuvPSdvgwLEBZNIfYCDxbBwHaWz9SKA2jiIaYHK2vLEaoSgn61d7pRPox1zIZdxkVion8tchGTa7am0psG1Az8MxjcS7aVUqn6Oy4oxrQv-hH4Wqrr0aI6iebYJHpnpPJ7Se7EMsyp3V36XEQBfBUIgq14cDHS8o0yvCmCT~c1jAyZs3TmWDUtGwEvu~Yk19qwGtGBevCWh5qZOA4I4HnWaOPnC4nbh3dWD9KujFIVJkBsXy0w9NOTUw9vJwtktvLPInbb09TM5n12He-66E19RWXzqzdPvygd5CwhyJE4rG6vP4mYg8xsjP9Ik6SqOBFwQ__",
+    "https://example.com/images/product1-back.jpg"
+  ],
+  "manufactureDate": "2024-01-15",
+  "expiryDate": "2026-01-15",
+  "sellerInformation": "John's Electronics, Bangalore",
+  "approved": true,
+  "dealOfDay": false,
+  "tekiskyPrice": "62000",
+  "size": "6.5 inches",
+  "color": "Black",
+  "material": "Aluminum",
+  "createdAt": {
+    "$date": "2024-10-10T15:58:36.488Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-10T16:03:52.007Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a1db7a724be92499600676"
+  },
+  "productId": "PRF2002",
+  "header": "Exclusive Luxury Perfume",
+  "productCategory": "Beauty & Personal Care",
+  "otherCategory": "Fragrances",
+  "productName": "Royal Essence Eau de Parfum",
+  "productType": "Perfume",
+  "productBrand": "Elite Fragrances",
+  "availableStockQty": 300,
+  "mrp": 15000,
+  "offerPrice": 12000,
+  "packetweight": 0.4,
+  "unitOfMeasure": "kg",
+  "description": "A premium, long-lasting perfume with a captivating floral and musky scent, designed for those who appreciate elegance.",
+  "createdBy": "JaneDoe",
+  "imageURL": [
+    "https://example.com/images/perfume-front.jpg",
+    "https://example.com/images/perfume-back.jpg"
+  ],
+  "manufactureDate": "2024-01-20",
+  "expiryDate": "2027-01-20",
+  "sellerInformation": "Elite Perfume Distributors, Paris",
+  "approved": true,
+  "dealOfDay": false,
+  "tekiskyPrice": "11000",
+  "size": "100ml",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-04T09:18:50.101Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-04T09:18:50.101Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3016239bdc5acfd8b83d5"
+  },
+  "productId": "rr25",
+  "header": "lattafa asad",
+  "productCategory": "Beauty & Personal Care",
+  "otherCategory": "Fragrances",
+  "productName": "Lattafa Asad Imported Long Lasting Luxury Perfume",
+  "productType": "Perfume",
+  "productBrand": "Ajmal",
+  "availableStockQty": 250,
+  "mrp": 2500,
+  "offerPrice": 1550,
+  "unitOfMeasure": "kg",
+  "description": "Lattafa Imported Long Lasting Luxury Perfume Spray Asad Premium Refreshing Oud and Musk Fragrances Eau De Parfum 100 ml Perfume for Unisex",
+  "createdBy": "JohnDoe",
+  "imageURL": [
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1707492353191_2.jpg"
+  ],
+  "manufactureDate": "2024-02-10",
+  "expiryDate": "2027-02-10",
+  "sellerInformation": "Luxury Fragrance Store",
+  "approved": true,
+  "dealOfDay": true,
+  "tekiskyPrice": "750",
+  "size": "100ml",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T06:12:50.941Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T06:12:50.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a302ca39bdc5acfd8b83d8"
+  },
+  "productId": "rr26",
+  "header": "Lattafa oud mood",
+  "productCategory": "Beauty & Personal Care",
+  "otherCategory": "Fragrances",
+  "productName": "Lattafa Oud Eau De Parfum 100ml | Oud Fragrances | Imported EDP Perfume Scent",
+  "productType": "Perfume",
+  "productBrand": "Ajmal",
+  "availableStockQty": 250,
+  "mrp": 2500,
+  "offerPrice": 1400,
+  "unitOfMeasure": "kg",
+  "description": "Perfume Oud Mood Eau de Parfum by Lattafa Perfumes is a warm, oriental fragrance with floral, woody and spicy notes and features a pleasant sweetness. The top note is sweet-spicy with floral notes and saffron.",
+  "createdBy": "JohnDoe",
+  "imageURL": [
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1707492353191_2.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1707492791489_1.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1707492791495_3.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1707492791499_5.jpg"
+  ],
+  "manufactureDate": "2024-02-10",
+  "expiryDate": "2027-02-10",
+  "sellerInformation": "Luxury Fragrance Store",
+  "approved": true,
+  "dealOfDay": true,
+  "tekiskyPrice": "750",
+  "size": "100ml",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T06:18:50.358Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T06:18:50.358Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a304df39bdc5acfd8b83dd"
+  },
+  "productId": "rr27",
+  "header": "Lattafa Badee al oud",
+  "productCategory": "Beauty & Personal Care",
+  "otherCategory": "Fragrances",
+  "productName": "Lattafa Badee Al Oud Perfumes Oud For Glory Eau De Parfum",
+  "productType": "Perfume",
+  "productBrand": "Ajmal",
+  "availableStockQty": 250,
+  "mrp": 3000,
+  "offerPrice": 1800,
+  "unitOfMeasure": "kg",
+  "description": "Bade'e Al Oud Oud for Glory by Lattafa Perfumes is a Amber Woody fragrance for women and men. Bade'e Al Oud Oud for Glory was launched in 2020. Top notes are Saffron, Nutmeg and Lavender; middle notes are Agarwood (Oud) and Patchouli; base notes are Agarwood (Oud), Patchouli and Musk.",
+  "createdBy": "JohnDoe",
+  "imageURL": [
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1707492555977_2.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1707492555979_3.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1707492555974_1.webp",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1707492555977_2.jpg"
+  ],
+  "manufactureDate": "2024-02-10",
+  "expiryDate": "2027-02-10",
+  "sellerInformation": "Luxury Fragrance Store",
+  "approved": true,
+  "dealOfDay": true,
+  "tekiskyPrice": "1800",
+  "size": "100ml",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T06:27:43.724Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T06:27:43.724Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3076a39bdc5acfd8b83df"
+  },
+  "productId": "rr28",
+  "header": "Ajmal Musk rijali",
+  "productCategory": "Beauty & Personal Care",
+  "otherCategory": "Fragrances",
+  "productName": "Ajmal ROYAL MUSK RIJALI Floral Attar",
+  "productType": "Perfume",
+  "productBrand": "Ajmal",
+  "availableStockQty": 9,
+  "mrp": 550,
+  "offerPrice": 500,
+  "unitOfMeasure": "kg",
+  "description": "Misk Rijali by Ajmal is a beautifully balanced fragrance that captures the spirit of youth, self-indulgence and glamour.",
+  "createdBy": "JohnDoe",
+  "imageURL": [
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1707493179129_3.webp",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1707493179127_2.webp",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1707493179131_4.webp",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1707493179133_5.webp"
+  ],
+  "manufactureDate": "2024-02-10",
+  "expiryDate": "2027-02-10",
+  "sellerInformation": "Ajmal Store",
+  "approved": true,
+  "dealOfDay": true,
+  "tekiskyPrice": "500",
+  "size": "6ml",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T06:38:34.670Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T06:38:34.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3089639bdc5acfd8b83e2"
+  },
+  "productId": "rr29",
+  "header": "Lattafa Najdia",
+  "productCategory": "Beauty & Personal Care",
+  "otherCategory": "Fragrances",
+  "productName": "Lattafa Najdia Perfume for Men",
+  "productType": "Perfume",
+  "productBrand": "Ajmal",
+  "availableStockQty": 9,
+  "mrp": 2300,
+  "offerPrice": 1270,
+  "unitOfMeasure": "kg",
+  "description": "Perfume Najdia Eau de Parfum by Lattafa is a refreshing, pure perfume with aqua and citrus notes. The top note opens fresh and dynamic with bergamot, lemongrass, lemon, apple and cinnamon. Orange blossoms in the heart note set flowery accents and are accompanied by aqua notes, cardamom, rosemary and lavender.",
+  "createdBy": "JohnDoe",
+  "imageURL": [
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1707492683896_3.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1707492683898_4.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1707492683888_1.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1707492683896_3.jpg"
+  ],
+  "manufactureDate": "2024-02-10",
+  "expiryDate": "2027-02-10",
+  "sellerInformation": "Ajmal Store",
+  "approved": true,
+  "dealOfDay": true,
+  "tekiskyPrice": "500",
+  "size": "100ml",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T06:43:34.761Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T06:43:34.761Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3098339bdc5acfd8b83e5"
+  },
+  "productId": "rr30",
+  "header": "Naseem Musk safi",
+  "productCategory": "Beauty & Personal Care",
+  "otherCategory": "Fragrances",
+  "productName": "Naseem Musk Safi Non-Alcoholic & Long lasting Pure Attar Floral Attar  (Floral)",
+  "productType": "Perfume",
+  "productBrand": "Ajmal",
+  "availableStockQty": 9,
+  "mrp": 2500,
+  "offerPrice": 1200,
+  "unitOfMeasure": "kg",
+  "description": "Al Naseem IND. L.L.CMusk Safi Non-Alcoholic Concentrated Perfume Oil Commonly known as Attar Long Lasting Effect It has 3 Notes in it Top Note: Lily of Valley Middle Note: White Musk Base Note: Sandalwood Amber Read the Instructions before use Keep in Warm & Dry place Keep away from children below 5 yrs Lifespan if for 720 Days",
+  "createdBy": "JohnDoe",
+  "imageURL": [
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1707493310436_1.webp",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1707493310440_2.webp",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1707493310442_4.webp",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1707493310447_6.webp"
+  ],
+  "manufactureDate": "2024-02-10",
+  "expiryDate": "2027-02-10",
+  "sellerInformation": "Ajmal Store",
+  "approved": true,
+  "dealOfDay": true,
+  "tekiskyPrice": "500",
+  "size": "100ml",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T06:47:31.148Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T06:47:31.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a30ad339bdc5acfd8b83e8"
+  },
+  "productId": "rr31",
+  "header": "Swiss Arabian",
+  "productCategory": "Beauty & Personal Care",
+  "otherCategory": "Fragrances",
+  "productName": "Swiss Arabian Jannat ul Firdaus Attar",
+  "productType": "Perfume",
+  "productBrand": "Ajmal",
+  "availableStockQty": 9,
+  "mrp": 999,
+  "offerPrice": 600,
+  "unitOfMeasure": "kg",
+  "description": "annat-ul Firdaus name is derived from the Arabic word meaning The ‘Highest Paradise’. This fragrance is wild and musky that will leave you and your friends mesmerized. This fragrance will lift your spirits. This fragrance is unique in every way and will astound your senses. Pamper yourself with this unique, intriguing perfume. High quality packaging complements this original, fine perfume oil. For any Arabic perfume lover this fragrance is hard to resist, a must try.",
+  "createdBy": "JohnDoe",
+  "imageURL": [
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1707649295940_1.webp",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1707649295946_2.webp",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1707649295952_6.webp",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1707649295950_5.webp"
+  ],
+  "manufactureDate": "2024-02-10",
+  "expiryDate": "2027-02-10",
+  "sellerInformation": "Ajmal Store",
+  "approved": true,
+  "dealOfDay": true,
+  "tekiskyPrice": "500",
+  "size": "9ml",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T06:53:07.857Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T06:53:07.857Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a30b9739bdc5acfd8b83ea"
+  },
+  "productId": "rr32",
+  "header": "Ajmal AQUA Floral Attar Floral Attar (Floral)",
+  "productCategory": "Beauty & Personal Care",
+  "otherCategory": "Fragrances",
+  "productName": "Aqua (attar) by Ajmal",
+  "productType": "Perfume",
+  "productBrand": "Ajmal",
+  "availableStockQty": 9,
+  "mrp": 600,
+  "offerPrice": 400,
+  "unitOfMeasure": "kg",
+  "description": "The aquatic heart of jasmine, sage and marine notes conjure up the impression of being next to the sea – crisp salty sea breeze, crystalline waters and a burst of sophisticated freshness..",
+  "createdBy": "JohnDoe",
+  "imageURL": [
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708897305506_aqua-floral-attar-ajmal-5-original-imaghdmxhhe2djgr.jpeg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708897305711_aqua-floral-attar-ajmal-5-original-imaghdmxbavz9yhx.jpeg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708897305714_sandalia-d-ajmal-5-original-imagh5uzsyee8nmg.jpeg"
+  ],
+  "manufactureDate": "2024-02-10",
+  "expiryDate": "2027-02-10",
+  "sellerInformation": "Ajmal Store",
+  "approved": true,
+  "dealOfDay": true,
+  "tekiskyPrice": "500",
+  "size": "6ml",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T06:56:23.675Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T06:56:23.675Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a30c5639bdc5acfd8b83ed"
+  },
+  "productId": "rr33",
+  "header": "super-atoof-floral-attar",
+  "productCategory": "Beauty & Personal Care",
+  "otherCategory": "Fragrances",
+  "productName": "super-atoof-floral-attarAjmal",
+  "productType": "Perfume",
+  "productBrand": "Ajmal",
+  "availableStockQty": 9,
+  "mrp": 450,
+  "offerPrice": 350,
+  "unitOfMeasure": "kg",
+  "description": "Atoof composition offers a refreshing choice for men with a penchant for the great outdoors. A distinguished icy aroma that articulately blends top fresh notes comprised of Bergamot, Lavender and Watermelon with invigorating ingredients like Lotus and Jasmine that form the core of the fragrance.",
+  "createdBy": "JohnDoe",
+  "imageURL": [
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708980185582_1000257976.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708980185588_1000257973.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708980185592_1000257974.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708980185595_1000257975.jpg"
+  ],
+  "manufactureDate": "2024-02-10",
+  "expiryDate": "2027-02-10",
+  "sellerInformation": "Ajmal Store",
+  "approved": true,
+  "dealOfDay": true,
+  "tekiskyPrice": "500",
+  "size": "6ml",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T06:59:34.479Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T06:59:34.479Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a30d7539bdc5acfd8b83f2"
+  },
+  "productId": "rr34",
+  "header": "Amber Leather Floral Attar Men & Women",
+  "productCategory": "Beauty & Personal Care",
+  "otherCategory": "Fragrances",
+  "productName": "Men & Women",
+  "productType": "Perfume",
+  "productBrand": "Ajmal",
+  "availableStockQty": 9,
+  "mrp": 500,
+  "offerPrice": 400,
+  "unitOfMeasure": "kg",
+  "description": "Fresh herbal notes transition into warm leather and precious woods, with saffron and a modern praline twist.",
+  "createdBy": "JohnDoe",
+  "imageURL": [
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708980185582_1000257976.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708980185588_1000257973.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708980185592_1000257974.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708980185595_1000257975.jpg"
+  ],
+  "manufactureDate": "2024-02-10",
+  "expiryDate": "2027-02-10",
+  "sellerInformation": "Ajmal Store",
+  "approved": true,
+  "dealOfDay": true,
+  "tekiskyPrice": "500",
+  "size": "6ml",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T07:04:21.211Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T07:04:21.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a30e4339bdc5acfd8b83f4"
+  },
+  "productId": "rr35",
+  "header": "Blanco Floral Attar (Floral)",
+  "productCategory": "Beauty & Personal Care",
+  "otherCategory": "Fragrances",
+  "productName": "All Occasions, Wedding, Casual, Party, Daily",
+  "productType": "Perfume",
+  "productBrand": "Ajmal",
+  "availableStockQty": 9,
+  "mrp": 400,
+  "offerPrice": 350,
+  "unitOfMeasure": "kg",
+  "description": "A attar for the men with modern thoughts and urban lifestyle.With the high-quality ingredients used on each note, fragrance will energize the spirit. The attar reflects your ability to go for an extra mile to achieve your goals. The preference of gentlemen to give their attire a classic touch.",
+  "createdBy": "JohnDoe",
+  "imageURL": [
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708980939011_1000257998.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708980939014_1000257995.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708980939017_1000257996.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708980939020_1000257997.jpg"
+  ],
+  "manufactureDate": "2024-02-10",
+  "expiryDate": "2027-02-10",
+  "sellerInformation": "Ajmal Store",
+  "approved": true,
+  "dealOfDay": true,
+  "tekiskyPrice": "500",
+  "size": "5ml",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T07:07:47.479Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T07:07:47.479Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a30f2439bdc5acfd8b83f7"
+  },
+  "productId": "rr36",
+  "header": "Khususi Cool Moon Floral Attar",
+  "productCategory": "Beauty & Personal Care",
+  "otherCategory": "Fragrances",
+  "productName": "Suitable for Men & Women",
+  "productType": "Perfume",
+  "productBrand": "Ajmal",
+  "availableStockQty": 9,
+  "mrp": 450,
+  "offerPrice": 350,
+  "unitOfMeasure": "kg",
+  "description": "Indulge in the sheer elegance of this fragrance, which exudes a delightful blend of freshness, floral notes, and fruity nuances",
+  "createdBy": "JohnDoe",
+  "imageURL": [
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708981514448_1000258001.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708981514453_1000258002.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708981514455_1000258003.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708981514458_1000258004.jpg"
+  ],
+  "manufactureDate": "2024-02-10",
+  "expiryDate": "2027-02-10",
+  "sellerInformation": "Ajmal Store",
+  "approved": true,
+  "dealOfDay": true,
+  "tekiskyPrice": "500",
+  "size": "5ml",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T07:11:32.937Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T07:11:32.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a30fe739bdc5acfd8b83f9"
+  },
+  "productId": "rr37",
+  "header": "Royal Hiba Floral Attar",
+  "productCategory": "Beauty & Personal Care",
+  "otherCategory": "Fragrances",
+  "productName": "Type: Floral Attar Alcohol Free ( Ajmal)",
+  "productType": "Perfume",
+  "productBrand": "Ajmal",
+  "availableStockQty": 9,
+  "mrp": 550,
+  "offerPrice": 400,
+  "unitOfMeasure": "kg",
+  "description": "Indulge in the sheer elegance of this fragrance, which exudes a delightful blend of freshness, floral notes, and fruity nuances",
+  "createdBy": "JohnDoe",
+  "imageURL": [
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708982153129_1000258011.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708982153132_1000257976.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708982153135_1000257998.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708982153137_1000258012.jpg"
+  ],
+  "manufactureDate": "2024-02-10",
+  "expiryDate": "2027-02-10",
+  "sellerInformation": "Ajmal Store",
+  "approved": true,
+  "dealOfDay": true,
+  "tekiskyPrice": "500",
+  "size": "5ml",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T07:14:47.751Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T07:14:47.751Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3107439bdc5acfd8b83fb"
+  },
+  "productId": "rr38",
+  "header": "Identity Floral Attar",
+  "productCategory": "Beauty & Personal Care",
+  "otherCategory": "Fragrances",
+  "productName": "Suitable For Men & Women (Lasts For 24 hr)",
+  "productType": "Perfume",
+  "productBrand": "Ajmal",
+  "availableStockQty": 9,
+  "mrp": 500,
+  "offerPrice": 350,
+  "unitOfMeasure": "kg",
+  "description": "Indulge in the sheer elegance of this fragrance, which exudes a delightful blend of freshness, floral notes, and fruity nuances",
+  "createdBy": "JohnDoe",
+  "imageURL": [
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708982944146_1000257976.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708982944150_1000257998.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708982944152_1000258014.jpg"
+  ],
+  "manufactureDate": "2024-02-10",
+  "expiryDate": "2027-02-10",
+  "sellerInformation": "Ajmal Store",
+  "approved": true,
+  "dealOfDay": true,
+  "tekiskyPrice": "500",
+  "size": "5ml",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T07:17:08.424Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T07:17:08.424Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a310fe39bdc5acfd8b83fd"
+  },
+  "productId": "rr39",
+  "header": "Mukhallat Floral Attar",
+  "productCategory": "Beauty & Personal Care",
+  "otherCategory": "Fragrances",
+  "productName": "High quality Mukhallat attar with long lasting fragrance",
+  "productType": "Perfume",
+  "productBrand": "Ajmal",
+  "availableStockQty": 9,
+  "mrp": 600,
+  "offerPrice": 400,
+  "unitOfMeasure": "kg",
+  "description": "Mukhallat Shams by Ajmal is a Amber fragrance for women and men. A creation that boasts of rich heritage and tradition. Mukhallat Al Shams is a hearty dose of dahn al oud with hints of floral and woody elements; and musk providing the warmth and longevity.",
+  "createdBy": "JohnDoe",
+  "imageURL": [
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708984110608_1000257976.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708984110617_1000257998.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1708984110619_1000258018.jpg"
+  ],
+  "manufactureDate": "2024-02-10",
+  "expiryDate": "2027-02-10",
+  "sellerInformation": "Ajmal Store",
+  "approved": true,
+  "dealOfDay": true,
+  "tekiskyPrice": "500",
+  "size": "5ml",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T07:19:26.705Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T07:19:26.705Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a311df39bdc5acfd8b8400"
+  },
+  "productId": "rr40",
+  "header": "Mukhallat khususi",
+  "productCategory": "Beauty & Personal Care",
+  "otherCategory": "Fragrances",
+  "productName": "All Occasions, Wedding, Casual, Party, Daily",
+  "productType": "Perfume",
+  "productBrand": "Ajmal",
+  "availableStockQty": 9,
+  "mrp": 350,
+  "offerPrice": 300,
+  "unitOfMeasure": "kg",
+  "description": "A floral spicy fruity rendition made to cater to the arabic attar connoisseurs, this oriental concoction is made to reminiscence the mystic old world charm with longlasting woody notes.",
+  "createdBy": "JohnDoe",
+  "imageURL": [
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1709024756885_1000257998.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1709024756890_1000257976.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1709024756893_1000258308.jpg"
+  ],
+  "manufactureDate": "2024-02-10",
+  "expiryDate": "2027-02-10",
+  "sellerInformation": "Ajmal Store",
+  "approved": true,
+  "dealOfDay": true,
+  "tekiskyPrice": "500",
+  "size": "6ml",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T07:23:11.822Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T07:23:11.822Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3125939bdc5acfd8b8402"
+  },
+  "productId": "rr41",
+  "header": "ROYAL YASMINE",
+  "productCategory": "Beauty & Personal Care",
+  "otherCategory": "Fragrances",
+  "productName": "Motia/Jasmin",
+  "productType": "Perfume",
+  "productBrand": "Ajmal",
+  "availableStockQty": 9,
+  "mrp": 750,
+  "offerPrice": 450,
+  "unitOfMeasure": "kg",
+  "description": "A special oriental blend that will appeal to inviduals looking for a traditional fragrance that is reminiscent of traditions and herita",
+  "createdBy": "JohnDoe",
+  "imageURL": [
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1709030119706_IMG-20240227-WA0015.jpg",
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1709030119711_royal-yasmine-ajmal-5-original-imaghbe3bqhj8rbp.jpeg"
+  ],
+  "manufactureDate": "2024-02-10",
+  "expiryDate": "2027-02-10",
+  "sellerInformation": "Ajmal Store",
+  "approved": true,
+  "dealOfDay": true,
+  "tekiskyPrice": "500",
+  "size": "6ml",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T07:25:13.267Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T07:25:13.267Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a312b439bdc5acfd8b8404"
+  },
+  "productId": "rr42",
+  "header": "MISK RIJALI (Musk)",
+  "productCategory": "Beauty & Personal Care",
+  "otherCategory": "Fragrances",
+  "productName": "Ajmal ROYAL MISK RIJALI Floral Attar (Musk)",
+  "productType": "Perfume",
+  "productBrand": "Ajmal",
+  "availableStockQty": 9,
+  "mrp": 599,
+  "offerPrice": 499,
+  "unitOfMeasure": "kg",
+  "description": "A special oriental blend that will appeal to inviduals looking for a traditional fragrance that is reminiscent of traditions and herita",
+  "createdBy": "JohnDoe",
+  "imageURL": [
+    "https://tekisky-mart.s3.ap-south-1.amazonaws.com/images/1709376559489_royal-misk-rijali-ajmal-5-original-imagha8hrp9hzpmg.webp"
+  ],
+  "manufactureDate": "2024-02-10",
+  "expiryDate": "2027-02-10",
+  "sellerInformation": "Ajmal Store",
+  "approved": true,
+  "dealOfDay": true,
+  "tekiskyPrice": "500",
+  "size": "6ml",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T07:26:44.106Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T07:26:44.106Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a31e89eb874b19040c0e40"
+  },
+  "productId": "r001",
+  "header": "Flyberry Gourmet Mabroom Dates",
+  "productCategory": "Dates",
+  "otherCategory": "dates",
+  "productName": "(Khajoor/Khajur) 400g | 100% Natural | Rich in Calcium, Iron and Potassium | Instant Energy",
+  "productType": "Dates",
+  "productBrand": "Flyberry",
+  "availableStockQty": 9,
+  "mrp": 849,
+  "offerPrice": 499,
+  "unitOfMeasure": "1 Pack",
+  "description": "Healthy eating high in fiber, vitamins and minerals including soluble fiber, potassium, iron, magnesium, manganese, selenium, and vitamin.Bite-size: Naturally bite-sized dried fruit making it easy for you to control how much to pack and consume. ",
+  "createdBy": "Flyberry",
+  "imageURL": [
+    "https://m.media-amazon.com/images/I/81bVno+4G3L._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/81h5pBjwvSS._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/81EVz54jcQS._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61DD-otqyKL._SL1200_.jpg",
+    "https://m.media-amazon.com/images/I/61VIKEt5KTL._SL1350_.jpg"
+  ],
+  "manufactureDate": "2024-02-10T00:00:00Z",
+  "expiryDate": "2027-02-10T00:00:00Z",
+  "sellerInformation": "Flyberry",
+  "approved": true,
+  "dealOfDay": true,
+  "tekiskyPrice": "500",
+  "size": "400gm",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T08:17:13.549Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:17:13.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32a2eeb874b19040c0e42"
+  },
+  "productId": "r002",
+  "header": "Carnival Premium Medjool Dates 800g ",
+  "productCategory": "Dates",
+  "otherCategory": "dates",
+  "productName": "Large, Juicy & Naturally Sweet | High Fiber Healthy Snack | No Added Sugar | Energy Booster Superfood",
+  "productType": "Dates",
+  "productBrand": "Carnival",
+  "availableStockQty": 9,
+  "mrp": 1550,
+  "offerPrice": 869,
+  "unitOfMeasure": "1 Pack",
+  "description": "Premium Handpicked Medjool Dates: Sourced from the finest farms, these large, plump dates are renowned for their rich flavor and soft texture.Naturally Sweet & Sugar-Free: Indulge guilt-free with dates that offer natural sweetness without any added sugar or artificial flavors.Nutrient-Rich Superfood: Packed with fiber, antioxidants, potassium, and essential vitamins, supporting energy, digestion, and overall wellness. ",
+  "createdBy": "Candor Foods Pvt Ltd",
+  "imageURL": [
+    "https://m.media-amazon.com/images/I/61OqCLeVoxL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71s8FAHkvpL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/712y1E1w2xL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81-qamLsMwL._SL1500_.jpg"
+  ],
+  "manufactureDate": "2024-02-10T00:00:00Z",
+  "expiryDate": "2027-02-10T00:00:00Z",
+  "sellerInformation": "Candor Foods Pvt Ltd",
+  "approved": true,
+  "dealOfDay": false,
+  "size": "810gm",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T09:06:54.672Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:06:54.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32ceeeb9f23c2df90068f"
+  },
+  "productId": "dates3",
+  "header": "Royal Delight jumbo Premium Medjool Dates 250g",
+  "productCategory": "Dates",
+  "otherCategory": "dates",
+  "productName": "Large, Juicy & Naturally Sweet | High Fiber Healthy Snack | No Added Sugar | Energy Booster Superfood",
+  "productType": "Dates",
+  "productBrand": "Royal Delight",
+  "availableStockQty": 9,
+  "mrp": 599,
+  "offerPrice": 299,
+  "unitOfMeasure": "250gm(1 Pack)",
+  "description": "Naturally Sweet & Sugar-Free: Indulge guilt-free with dates that offer natural sweetness without any added sugar or artificial flavors.Nutrient-Rich Superfood: Packed with fiber, antioxidants, potassium, and essential vitamins, supporting energy, digestion, and overall wellness. ",
+  "createdBy": "Royal Delight",
+  "imageURL": [
+    "https://m.media-amazon.com/images/I/61SdLiFJz0L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61bxN9KCY1L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81vScG5qbTL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81nat6gHMVL._SL1500_.jpg"
+  ],
+  "manufactureDate": "2024-02-10T00:00:00Z",
+  "expiryDate": "2027-02-10T00:00:00Z",
+  "sellerInformation": "Royal Delight",
+  "approved": true,
+  "dealOfDay": false,
+  "size": "250gm",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T09:18:38.537Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:18:38.537Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32f35eb9f23c2df900691"
+  },
+  "productId": "dates4",
+  "header": "HighFresh Premium Seedless Arabian Dates 1 KG",
+  "productCategory": "Dates",
+  "productName": "Naturally Sweet, Nutritious & Freshly Packed for Everyday Delight | Authentic Arabian Flavor Dates/Khajur/Pin Khajur",
+  "productType": "Dates",
+  "productBrand": "HighFresh",
+  "availableStockQty": 9,
+  "mrp": 899,
+  "offerPrice": 270,
+  "unitOfMeasure": "(1 Pack)",
+  "description": "Exceptional Quality & Freshness: Each date is meticulously handpicked to ensure superior quality, offering a soft, moist texture and an irresistible natural sweetness.Nutrient-Rich Superfood: Packed with dietary fiber, potassium, magnesium, and antioxidants, these dates provide lasting energy and support overall health.Perfect for All Occasions: Enjoy as a healthy snack, pair with nuts for a wholesome treat, or use in baking and cooking to enhance flavors naturally. ",
+  "createdBy": "Royal Delight",
+  "imageURL": [
+    "https://m.media-amazon.com/images/I/81a-tmq2sOL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71ycx-nNY-L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71sHOU0SDiL._SL1080_.jpg",
+    "https://m.media-amazon.com/images/I/71enyG9b0hL._SL1080_.jpg",
+    "https://m.media-amazon.com/images/I/61O8otvhkiL._SL1080_.jpg"
+  ],
+  "manufactureDate": "2024-02-10T00:00:00Z",
+  "expiryDate": "2027-02-10T00:00:00Z",
+  "sellerInformation": "HighFresh, Keshar Impex",
+  "approved": true,
+  "dealOfDay": false,
+  "size": "1000GM",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T09:28:21.805Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:28:21.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a33098eb9f23c2df900693"
+  },
+  "productId": "dates5",
+  "header": "SHARBATI DATES Premium Imported",
+  "productCategory": "Dates",
+  "productName": "Sultan Fresh Dates 500Gm With High In Fibre & Rich Source Of Iron|Gluten Free|No Preservatives |100% Vegan|Wet Khajoor|Khajur|Date Fruits",
+  "productType": "Dates",
+  "productBrand": "SHARBATI DATES",
+  "availableStockQty": 9,
+  "mrp": 499,
+  "offerPrice": 349,
+  "unitOfMeasure": "(1 Pack)",
+  "description": "BONE HEALTH: Dates contain several Vitamins & minerals, including phosphorus, calcium, and magnesium to prevent bone issues and suppots in bone density.BLOOD SUGAR CONTROL: It helps with blood sugar regulation due to fiber, and antioxidants. eating them may support diabetes management",
+  "createdBy": "Royal Delight",
+  "imageURL": [
+    "https://m.media-amazon.com/images/I/8138Cycf01L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81WFUTBaEkL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81FNPwRl6cL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81NUxLi5-GL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/711k+Ht0W9L._SL1500_.jpg"
+  ],
+  "manufactureDate": "2024-02-10T00:00:00Z",
+  "expiryDate": "2027-02-10T00:00:00Z",
+  "sellerInformation": "SHARBATI DATES",
+  "approved": true,
+  "dealOfDay": false,
+  "size": "500 gm",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T09:34:16.370Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:34:16.370Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32ff6dbb4807b817d4481"
+  },
+  "productId": "crokry01",
+  "header": "Larah by Borosil Blue Eve Silk Series Opalware 7",
+  "productCategory": "Beauty & Personal Care",
+  "productName": "Ajmal ROYAL MISK RIJALI Floral Attar (Musk)",
+  "productType": "crockery ",
+  "productBrand": "larah",
+  "availableStockQty": 9,
+  "mrp": 595,
+  "offerPrice": 489,
+  "unitOfMeasure": "kg",
+  "description": "BONE-ASH FREE, 100% VEGETARIAN DINNER SET: Our entire dinner sets range are thoughtfully crafted to be completely free of any animal-derived components. Unlike traditional dinner sets, our products do not contain any bone-ash, making them the perfect choice for strict vegetarians. Enjoy your meals with peace of mind, knowing that our dinner set is truly vegetarian-friendly.",
+  "createdBy": "JohnDoe",
+  "imageURL": [
+    "https://m.media-amazon.com/images/I/611TKMy6l+L._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/51dIjos72JL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/51-h4DpG4OL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/618MVlouN-L._SX679_.jpg"
+  ],
+  "manufactureDate": "2024-02-10",
+  "expiryDate": "2027-02-10",
+  "sellerInformation": "Larah by BOROSIL",
+  "approved": true,
+  "dealOfDay": true,
+  "tekiskyPrice": "500",
+  "size": "6ml",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T09:31:34.471Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:31:34.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3318feb9f23c2df900695"
+  },
+  "productId": "dates6",
+  "header": "MARKSTOR Ajwa Al-Saudi",
+  "productCategory": "Dates",
+  "productName": "Finest Fresh Ajwa Dates (Khajoor/Khajur) Of Madina, Saudi Arabia - 500 Gram",
+  "productType": "Dates",
+  "productBrand": "MARKSTOR",
+  "availableStockQty": 9,
+  "mrp": 2000,
+  "offerPrice": 1399,
+  "unitOfMeasure": "(1 Pack)",
+  "description": "BONE HEALTH: Dates contain several Vitamins & minerals, including phosphorus, calcium, and magnesium to prevent bone issues and suppots in bone density.BLOOD SUGAR CONTROL: It helps with blood sugar regulation due to fiber, and antioxidants. eating them may support diabetes management",
+  "createdBy": "Royal Delight",
+  "imageURL": [
+    "https://m.media-amazon.com/images/I/71JZPDp1+tL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71NmQxZ0D5L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81FNPwRl6cL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81J+3khgfQL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81zo7XFY5AL._SL1500_.jpg"
+  ],
+  "manufactureDate": "2024-02-10T00:00:00Z",
+  "expiryDate": "2027-02-10T00:00:00Z",
+  "sellerInformation": "MARKSTOR",
+  "approved": true,
+  "dealOfDay": false,
+  "size": "0.59 Kilograms",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T09:38:23.322Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:38:23.322Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a33201dbb4807b817d4485"
+  },
+  "productId": "crokry02",
+  "header": "Larah by Borosil Green Leaves Silk Series",
+  "productCategory": "home appliances",
+  "productName": "Leaves Silk Series Opalware Dinner Set | 35 Pieces for Family of 6 | Microwave & Dishwasher Safe | Bone-Ash Free | Crockery Set for Dining & Gifting | Plates & Bowls | White",
+  "productType": "crockery ",
+  "productBrand": "larah",
+  "availableStockQty": 100,
+  "mrp": 3640,
+  "offerPrice": 1849,
+  "unitOfMeasure": "kg",
+  "description": " BONE-ASH FREE, 100% VEGETARIAN DINNER SET: Our entire dinner sets range are thoughtfully crafted to be completely free of any animal-derived components. Unlike traditional dinner sets, our products do not contain any bone-ash, making them the perfect choice for strict vegetarians. Enjoy your meals with peace of mind, knowing that our dinner set is truly",
+  "createdBy": "JohnDoe",
+  "imageURL": [
+    "https://m.media-amazon.com/images/I/41DBQQbwrtL._SS100_.jpg",
+    "https://m.media-amazon.com/images/I/41XkMG7y0mL._SS100_.jpg",
+    "https://m.media-amazon.com/images/I/51ZIAl0MxWL._SS100_.jpg",
+    "https://m.media-amazon.com/images/I/41AvW7GaCsL._SS100_.jpg"
+  ],
+  "manufactureDate": "2024-02-10",
+  "expiryDate": "2027-02-10",
+  "sellerInformation": "Larah by BOROSIL",
+  "approved": true,
+  "dealOfDay": true,
+  "tekiskyPrice": "500",
+  "size": "6ml",
+  "color": "white",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T09:40:17.052Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:40:17.052Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a332ebeb9f23c2df900697"
+  },
+  "productId": "dates7",
+  "header": "Rasayanam Madina Original Ajwa Dates khajoor (500 gms)",
+  "productCategory": "Dates",
+  "productName": "From the finest farms of Mecca | Fresh & Authentic dry fruits",
+  "productType": "Dates",
+  "productBrand": "Rasayanam",
+  "availableStockQty": 9,
+  "mrp": 1299,
+  "offerPrice": 1199,
+  "unitOfMeasure": "500 g(1 Pack)",
+  "description": "Highest quality - Grade A handpicked and sorted Ajwa khajoor dates. No additives, artificial colors, or preservatives used in the growing of these ajvaa khajoor Excellently Sourced – Rasayanam Ajwa dates original are harvested from the Holy lands of Mecca that hold the legacy of this auspicious dates dry fruits",
+  "createdBy": "Royal Delight",
+  "imageURL": [
+    "https://m.media-amazon.com/images/I/819O2KkRlrL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/717OnjCirsL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71t4G9jyw3L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81y901NJG2L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61eBQZb7N+L._SL1500_.jpg"
+  ],
+  "manufactureDate": "2024-02-10T00:00:00Z",
+  "expiryDate": "2027-02-10T00:00:00Z",
+  "sellerInformation": "Rasayanam",
+  "approved": true,
+  "dealOfDay": false,
+  "size": "0.62 Kilograms",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T09:44:11.996Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:44:11.996Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a33458eb9f23c2df900699"
+  },
+  "productId": "dates8",
+  "header": "Ocassions Small Ajwa Dates- 1000gm",
+  "productCategory": "Dates",
+  "productName": "Ajwa Khajoor, Ajwa Dates Original, Ajwa Khajoor Original Madina | High in Antioxidants | Saudi Arabian Dates |Ajwa Khajur",
+  "productType": "Dates",
+  "productBrand": "Occasions",
+  "availableStockQty": 9,
+  "mrp": 3540,
+  "offerPrice": 2000,
+  "unitOfMeasure": "1 kg (Pack of 2)",
+  "description": "Package Contains : Ajwa Small Dates Saudi Arabian (Khajoor) (Pack of 2 - 500gm each)HEALTH BENEFITS: The Ajwa Khajur are high in several antioxidants, nutrients, and fibre, all of which may provide health benefits ranging from reduced risk of diseases to improved digestion and brain and heart health.",
+  "createdBy": "Royal Delight",
+  "imageURL": [
+    "https://m.media-amazon.com/images/I/81785LOeq+L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71K+dtP6TCL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81G6TfqwcsL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81AqYjGe07L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81DH39hX1uL._SL1500_.jpg"
+  ],
+  "manufactureDate": "2024-02-10T00:00:00Z",
+  "expiryDate": "2027-02-10T00:00:00Z",
+  "sellerInformation": "Occasions",
+  "approved": true,
+  "dealOfDay": false,
+  "size": "1000 Grams",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T09:50:16.242Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:50:16.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3359ceb9f23c2df90069b"
+  },
+  "productId": "dates9",
+  "header": "Lion Dates Royal Dates 1Kg Pack",
+  "productCategory": "Dates",
+  "productName": "Medjool Dates From Jordan - Khajur Dry Fruits - Jumbo Size - Healthy & Nutritious Snack - Rich In Protein, Vitamins, Minerals & Iron - Fresh Imported Khajoor",
+  "productType": "Dates",
+  "productBrand": "Lion Dates",
+  "availableStockQty": 9,
+  "mrp": 1650,
+  "offerPrice": 1450,
+  "unitOfMeasure": "1 kg (Pack of 1)",
+  "description": "Lion Royal Dates are premium quality dates all the way from the valleys of Jordan. Lion Royal Dates provide your body with everything it requires, from high protein to dietary fiber, vitamins, and minerals.✅Dates can help you manage your mood and combat stress.✅They provide a long-lasting energy boost because of the presence of natural fructose.",
+  "createdBy": "Royal Delight",
+  "imageURL": [
+    "https://m.media-amazon.com/images/I/71Cn7DZwXxL._SL1000_.jpg",
+    "https://m.media-amazon.com/images/I/71jhnmCcPBL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81SWLu0cGnL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/716goGJ1beL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81ZnRi-Tm9L._SL1500_.jpg"
+  ],
+  "manufactureDate": "2024-02-10T00:00:00Z",
+  "expiryDate": "2027-02-10T00:00:00Z",
+  "sellerInformation": "Lion Dates",
+  "approved": true,
+  "dealOfDay": false,
+  "size": "1.2 Kilograms",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T09:55:40.326Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:55:40.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a33684eb9f23c2df90069d"
+  },
+  "productId": "dates10",
+  "header": "Livyor Black Dates",
+  "productCategory": "Dates",
+  "productName": "Khajur | Khajoor Dry Fruits Dates (1 kg)",
+  "productType": "Dates",
+  "productBrand": "LIVYOR",
+  "availableStockQty": 100,
+  "mrp": 899,
+  "offerPrice": 449,
+  "unitOfMeasure": "1 kg ",
+  "description": "Lion Royal Dates are premium quality dates all the way from the valleys of Jordan. Lion Royal Dates provide your body with everything it requires, from high protein to dietary fiber, vitamins, and minerals.✅Dates can help you manage your mood and combat stress.✅They provide a long-lasting energy boost because of the presence of natural fructose.",
+  "createdBy": "Royal Delight",
+  "imageURL": [
+    "https://m.media-amazon.com/images/I/71X1+Hu7FvL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81zjJBpHAML._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61wMqJpRTlL._SL1200_.jpg",
+    "https://m.media-amazon.com/images/I/61yPaP9mU6L._SL1200_.jpg",
+    "https://m.media-amazon.com/images/I/61OMbqPn9vL._SL1200_.jpg"
+  ],
+  "manufactureDate": "2024-02-10T00:00:00Z",
+  "expiryDate": "2027-02-10T00:00:00Z",
+  "sellerInformation": "LIVYOR",
+  "approved": true,
+  "dealOfDay": false,
+  "size": "0.85 Kilograms",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T09:59:32.607Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:59:32.607Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3367bdad2da0b917380d8"
+  },
+  "productId": "crokry03",
+  "header": "Bodhi House",
+  "productCategory": "home appliances",
+  "productName": "Handcrafted Stoneware Reactive Glaze Ceramic Dinner Set, 20 Pieces Serving for 6, Microwave and Dishwasher Safe, Bone-ash Free, Crockery Set for Dining and Gifting, Greenish Blue",
+  "productType": "crockery ",
+  "productBrand": "larah",
+  "availableStockQty": 100,
+  "mrp": 8481,
+  "offerPrice": 5516,
+  "unitOfMeasure": "kg",
+  "description": "WHAT'S IN THE BOX: 20-piece ceramic dish set Serving for 6 - Includes 6 Dinner Plates (10.6-inch) | 6 Small Plates (7.5-inch) | 6 Bowls/Katori (4.4-inch and 180-ml) | 2 Serving Bowls (6.9-inch and 1000-ml).",
+  "createdBy": "JohnDoe",
+  "imageURL": [
+    "https://m.media-amazon.com/images/I/419H4AreDOL._SS100_.jpg",
+    "https://m.media-amazon.com/images/I/41SllaRCCRL._SS100_.jpg",
+    "https://m.media-amazon.com/images/I/41ZYlAZEbXL._SS100_.jpg",
+    "https://m.media-amazon.com/images/I/41VeZE7Xt2L._SS100_.jpg",
+    "https://m.media-amazon.com/images/I/81FZvk9IKcL._SL1500_.jpg"
+  ],
+  "manufactureDate": "2024-02-10",
+  "expiryDate": "2027-02-10",
+  "sellerInformation": "Larah by BOROSIL",
+  "approved": true,
+  "dealOfDay": true,
+  "tekiskyPrice": "500",
+  "size": "6ml",
+  "color": "white",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T09:59:23.077Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:59:23.077Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a33837eb9f23c2df90069f"
+  },
+  "productId": "dates11",
+  "header": "Lagom Gourmet Seedless Safawi Dates 200G",
+  "productCategory": "Dates",
+  "productName": "Saudi Arabia Dates,All Natural,No Preservatives,No Added Sugar,Gluten Free,Vegan,Plant Based,Non Gmo,Dates Dry Fruits,Khajur,Khajoor,Khejur",
+  "productType": "Dates",
+  "productBrand": "Lagom",
+  "availableStockQty": 100,
+  "mrp": 499,
+  "offerPrice": 385,
+  "unitOfMeasure": "200 Grams ",
+  "description": "Net Quantity: 200g.Premium Seedless Dates.Agricultural Produce of Kingdom of Saudi Arabia.Soft, sweet and full of flavor.Hand-picked and carefully selected quality.100% Recyclable and Reusable Pet Can with an airtight seal to ensure the product is protected and fresh.Quality assured - Our products are rigorously tested against the industry's best quality standards.",
+  "createdBy": "Royal Delight",
+  "imageURL": [
+    "https://m.media-amazon.com/images/I/61JJZ3L7-lL._SL1080_.jpg",
+    "https://m.media-amazon.com/images/I/61selAablKL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61ZPT1VQYKL._SL1080_.jpg",
+    "https://m.media-amazon.com/images/I/61KoGm7Jm9L._SL1076_.jpg",
+    "https://m.media-amazon.com/images/I/51ZhSKGtlvL._SL1010_.jpg"
+  ],
+  "manufactureDate": "2024-02-10T00:00:00Z",
+  "expiryDate": "2027-02-10T00:00:00Z",
+  "sellerInformation": "Lagom",
+  "approved": true,
+  "dealOfDay": false,
+  "size": "200 g (Pack of 1)",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T10:06:47.341Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T10:06:47.341Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3387a0eff6b58783a8cbc"
+  },
+  "productId": "crokry04",
+  "header": "Prince Home Decor & Gifts Aluminium Bowl - 2",
+  "productCategory": "home appliances",
+  "productName": "Bowl With 2 Spoon And 2 Cover, Silver, Transparent, 300 milliliter",
+  "productType": "crockery ",
+  "productBrand": "larah",
+  "availableStockQty": 100,
+  "mrp": 1090,
+  "offerPrice": 599,
+  "unitOfMeasure": "2",
+  "description": "Product contains: 2 Peacock Shaped Glass bowl with 2 spoon and 2 cover Product Dimension: Length: 12 cm. Height: 15 cm. Width: 10 cm. , Colour: Transparent Glasss Silver Table Décor Handicrafts suf supari bowl for table duck bowl metal.",
+  "createdBy": "JohnDoe",
+  "imageURL": [
+    "https://m.media-amazon.com/images/I/61K5N9mbYZL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/81kGIneaRWS._SX425_.jpg",
+    "https://m.media-amazon.com/images/I/41S5osjS78S._SS100_.jpg",
+    "https://m.media-amazon.com/images/I/41DznIq1xgS._SS100_.jpg",
+    "https://m.media-amazon.com/images/I/41uszKovHbS._SS100_.jpg"
+  ],
+  "manufactureDate": "2024-02-10",
+  "expiryDate": "2027-02-10",
+  "sellerInformation": "Larah by BOROSIL",
+  "approved": true,
+  "dealOfDay": true,
+  "tekiskyPrice": "500",
+  "size": "6ml",
+  "color": "white",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T10:07:54.246Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T10:07:54.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3396eeb9f23c2df9006a1"
+  },
+  "productId": "dates12",
+  "header": "Dates",
+  "productCategory": "Dates",
+  "productName": "Bolas Fard Dates 500g",
+  "productType": "Dates",
+  "productBrand": "Bolas",
+  "availableStockQty": 100,
+  "mrp": 295,
+  "offerPrice": 279,
+  "unitOfMeasure": "500 Grams ",
+  "description": "Contains Tree nuts Store in a cool and dry place.",
+  "createdBy": "Royal Delight",
+  "imageURL": [
+    "https://m.media-amazon.com/images/I/81hulfN9h7L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61aNMeDRR2L._SL1080_.jpg",
+    "https://m.media-amazon.com/images/I/71k-g3-DJmL._SL1500_.jpg"
+  ],
+  "manufactureDate": "2024-02-10T00:00:00Z",
+  "expiryDate": "2027-02-10T00:00:00Z",
+  "sellerInformation": "Bolas",
+  "approved": true,
+  "dealOfDay": false,
+  "size": "500 gram (Pack of 1)",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T10:11:58.660Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T10:11:58.660Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a33ac9eb9f23c2df9006a5"
+  },
+  "productId": "dates13",
+  "header": "Al Barakah Arabian Dates 800gram ",
+  "productCategory": "Dates",
+  "productName": "Delicious and Nutritious Khajur/Khajoor Dryfruit | All Natural, No Preservatives, No Added Sugar, Gluten Free ",
+  "productType": "Dates",
+  "productBrand": "Al Barakah Dates",
+  "availableStockQty": 100,
+  "mrp": 450,
+  "offerPrice": 299,
+  "unitOfMeasure": "1 ",
+  "description": "Khalas Dates are a premium quality, natural and healthy snack that are packed with nutrients and flavor.These dates are rich in fiber, minerals, and antioxidants, making them a great snack option for people who are looking for a healthy snacking alternative.Khalas Dates are naturally sweet and have a caramel-like flavor that is irresistible.They are ideal for snacking, adding to smoothies, or using in baking and cooking.",
+  "createdBy": "Shaikh",
+  "imageURL": [
+    "https://m.media-amazon.com/images/I/71llpeAb+yL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51xbUdTFBNL.jpg",
+    "https://m.media-amazon.com/images/I/71IL6qhMvuL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71QrpEdTdzL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71Xzv69f-NL._SL1500_.jpg"
+  ],
+  "manufactureDate": "2024-02-10T00:00:00Z",
+  "expiryDate": "2027-02-10T00:00:00Z",
+  "sellerInformation": "Al Barakah Dates",
+  "approved": true,
+  "dealOfDay": false,
+  "size": "400Gram (Pack of 2)",
+  "color": "Golden",
+  "material": "Glass Bottle",
+  "createdAt": {
+    "$date": "2025-02-05T10:17:45.268Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T10:17:45.268Z"
+  },
+  "__v": 0
+}]
