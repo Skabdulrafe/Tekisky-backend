@@ -3,7 +3,7 @@ import productModel from "../models/productModel.js"
     try{
         let u1=new productModel(productDetails)
         let data=await u1.save()
-        console.log(data)
+        // console.log(data)
         return "success"
     } catch(error){
         console.log(error)
