@@ -6,7 +6,7 @@ let productd=express.Router()
 productd.post('/addproduct',authenticateToken,addProduct)
 // productd.post('/upload',authenticateToken,upload)
 productd.get('/getproduct',getproduct) 
-productd.get('/getoneproduct/:id',authenticateToken,getOneproduct) 
+productd.get('/getoneproduct/:id',getOneproduct) 
 productd.put('/update/:id',authenticateToken,updateProduct)
 productd.get('/delete/:id',authenticateToken,deleteProduct)
 export default productd
