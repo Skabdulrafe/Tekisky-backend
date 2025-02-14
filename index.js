@@ -8,14 +8,21 @@ import orderRoute from './routes/orderRoutes.js';
 import productd from './routes/productRoutes.js';
 import userRout from './routes/userRoutes.js';
 import preorderRouter from './routes/preorderroutes.js';
-import upload from './multer/multer.js';
+import upload from './multer/upload.js';
  import cors from 'cors';
-import uploderouter from './routes/uploadRoutes.js';
+// import uploderouter from './routes/uploadRoutes.js';
+import cloudinary from "cloudinary";
+import uploderouter from './routes/uploderouter.js';
+
 dotenv.config();//it loads 
 app.use(cors())
 
 let dbUrl = process.env.DBURL
-
+cloudinary.v2.config({
+    cloud_name: process.env.CLOUDINARY_NAME,
+    api_key: process.env.API_KEY,
+    api_secret: process.env.API_SECRET,
+  });
 
 let dbName = process.env.DBNAME
 dbConnect(dbUrl, dbName);

@@ -4,6 +4,13 @@ import { createProductservices, Deleteservices, getoneProductServices, getProduc
 export let addProduct = async (req, res) => {
     let productDetails = req.body;
   try {
+    // if (!req.file) {
+    //     return res.status(500).send({
+    //       success: false,
+    //       message: "please provide product images",
+    //     });
+    //   }
+  
         let status = await createProductservices(productDetails);
         if (status == "success") {
             return res.status(201).send(`product created successfully with productid ${productDetails}`); 
