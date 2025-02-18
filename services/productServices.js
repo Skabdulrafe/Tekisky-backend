@@ -1,20 +1,12 @@
 import productModel from "../models/productModel.js";
-export let createProductservices = async (productDetails) => {
+export let createProductservices = async (jsonData) => {
   try {
-    if (!productDetails.file) {
-      return res.status(500).send({
-        success: false,
-        message: "please provide product images",
-      });
-    }
-    let u1 = new productModel(productDetails);
+    let u1 = new productModel(jsonData);
     let data = await u1.save();
     // console.log(data)
     console.log(data);
     return "success";
   } catch (error) {
-
-    
     console.log(error);
     return "error";
   }

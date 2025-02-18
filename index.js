@@ -12,7 +12,8 @@ import upload from './multer/upload.js';
  import cors from 'cors';
 // import uploderouter from './routes/uploadRoutes.js';
 import cloudinary from "cloudinary";
-import uploderouter from './routes/uploderouter.js';
+// import uploderouter from './routes/uploderouter.js';
+import router from './routes/uploderouter.js';
 
 dotenv.config();//it loads 
 app.use(cors())
@@ -35,7 +36,7 @@ app.use('/user',userRout)
 app.use('/pre',preorderRouter)
 //app.use('/customer')
 //app.use("/uploads", express.static(path.join(process.cwd(), "uploads")));
-app.use("/api", uploderouter);
+app.use("/api",router);
 //console.log(upload.storage.DiskStorage)
 app.listen(process.env.PORT,()=>{
     console.log(`the server statrted at http://localhost:${process.env.PORT} `);
