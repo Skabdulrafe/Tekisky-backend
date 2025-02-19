@@ -18,19 +18,19 @@ const orderSchema = new mongoose.Schema({
   address: String,
   landmark: String,
   pincode: String,
-  products: {
-    type: Array,
-    default: []
-  },
-  totalAmount: {
-    type: Number,
-    // required: true
-  },
-  orderStatus: {
-    type: String,
-    default: 'Pending'
-  },
-  feedback: String
+  // products: {
+  //   type: Array,
+  //   default: []
+  // },
+  // totalAmount: {
+  //   type: Number,
+  //   // required: true
+  // },
+  // orderStatus: {
+  //   type: String,
+  //   default: 'Pending'
+  // },
+  // feedback: String
 });
 
 const OrderModel = mongoose.model('Order', orderSchema);
