@@ -7,7 +7,7 @@ export let addeorder=async(req,res)=>{
         if (status == "success") {
             return res.status(201).json(`status': 'success', 'message': 'Order saved successfully`); 
         } else {
-            return res.status(400).send('error: order creation failed');
+            return res.status(400).json('error: order creation failed');
         }
        
     } catch (error) {
