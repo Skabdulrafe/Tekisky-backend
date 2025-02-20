@@ -36,7 +36,7 @@ app.use('/user',userRout)
 app.use('/pre',preorderRouter)
 //app.use('/customer')
 //app.use("/uploads", express.static(path.join(process.cwd(), "uploads")));
-app.use("/api",router);
+// app.use("/api",router);
 //console.log(upload.storage.DiskStorage)
 app.listen(process.env.PORT,()=>{
     console.log(`the server statrted at http://localhost:${process.env.PORT} `);
