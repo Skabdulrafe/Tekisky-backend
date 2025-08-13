@@ -22,15 +22,15 @@ const orderSchema = new mongoose.Schema({
     type: Array,
     default: []
   },
-  totalAmount: {
-    type: Number,
-    // required: true
-  },
-  orderStatus: {
-    type: String,
-    default: 'Pending'
-  },
-  feedback: String
+  // totalAmount: {
+  //   type: Number,
+  //   // required: true
+  // },
+  // orderStatus: {
+  //   type: String,
+  //   default: 'Pending'
+  // },
+  // feedback: String
 });
 
 const OrderModel = mongoose.model('Order', orderSchema);
